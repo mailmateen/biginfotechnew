@@ -9495,7 +9495,7 @@ $(document).on('change','select#make, select#usb',function(){
 
 
 	$(document).ready(function() {
-      $('select:not(.ignore)').niceSelect();
+      /* nice-select styling is not part of the theme CSS, so product dropdowns stay native */
     });
 
 
