@@ -1,0 +1,31 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/dsc/class-3-dsc",
+      "destination": "/class-3-dsc",
+      "permanent": true
+    },
+    {
+      "source": "/dsc/dgft-dsc",
+      "destination": "/dgft-dsc",
+      "permanent": true
+    },
+    {
+      "source": "/dsc/foreign-dsc",
+      "destination": "/foreign-dsc",
+      "permanent": true
+    },
+    {
+      "source": "/dsc/document-signer",
+      "destination": "/document-signer",
+      "permanent": true
+    },
+    {
+      "source": "/dsc/usb-tokens",
+      "destination": "/buy-dsc-token",
+      "permanent": true
+    }
+  ]
+}
