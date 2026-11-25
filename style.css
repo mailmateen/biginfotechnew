@@ -33076,3 +33076,10 @@ label {
 .footer-top .subscribe-widget .widget-content .subscribe-form .form-group button{position:static!important;display:flex;align-items:center;justify-content:center;gap:10px;width:100%!important;height:auto;margin-top:12px;padding:14px 18px;line-height:1.2!important;font-size:16px!important;font-weight:700;border:0;border-radius:30px;background:#25d366!important;color:#fff}
 .footer-top .subscribe-widget .widget-content .subscribe-form .form-group button:hover{background:#1ebe5b!important}
 .footer-top .subscribe-widget .widget-content .subscribe-form .form-group button i.fab{font-family:"Font Awesome 5 Brands"!important;font-weight:400!important;font-size:22px}
+
+
+.wa-channel{display:block;text-align:center;margin-bottom:5px;font-size:13px;font-weight:700;line-height:1.2;color:#25d366!important}
+.wa-channel i{font-family:"Font Awesome 5 Brands";font-weight:400;font-size:20px;vertical-align:middle;margin-right:5px}
+.chooseus-section .inner-box{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}
+.chooseus-section .inner-box .single-item{margin-bottom:0}
+@media (max-width:991px){.chooseus-section .inner-box{grid-template-columns:1fr}}
